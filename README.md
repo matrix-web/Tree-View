@@ -1,24 +1,45 @@
 # tree-view
 
-## Project setup
+## Тестовое задание реализация Иерархического дерева
+
+Реализовано:
+
+* Отображение
+* CRUD
+* Поиск по списку
+* Сортировка
+* Совмещение сортировки и поиска
+
+## Preview
+
+Мобильные устройства 320px
+
+![Default](./preview/default.png "Default")
+
+Поиск с учетом регистра
+
+![Search case](./preview/search-register.png "Search case")
+
+Поиск
+
+![Search](./preview/search.png "Search")
+
+### Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компиляция and минификация for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Линтинг and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
